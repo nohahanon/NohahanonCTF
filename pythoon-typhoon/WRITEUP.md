@@ -4,7 +4,7 @@ flag{you_do_the_know_between_nces_differeand_a_typhoon_a_cyclone?}
 </details>
 
 
-<details><summary>フラグ</summary>
+<details><summary>説明</summary>
 pythonコードは直接実行されず、pycというバイトコードに変換されてから仮想環境上で実行されます。
 pycファイル形式は先頭16Byteにファイルヘッダーが配置され、その後にmarshalモジュールで変換された
 コードオブジェクトが並びます。
